@@ -38,7 +38,7 @@ def main():
             numbers
         )  # Finding the perfect squares from the list
 
-        # Printing the list of perfect squares
+        # Printing the list of perfect squares to the user
         print("These numbers are perfect squares:", perfect_squares)
     except ValueError:
         # Catching the error if the input is not a valid list
