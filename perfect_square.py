@@ -3,6 +3,7 @@
 # Created on: December 13th, 2023
 # this program asks for the user to input numbers
 # and it will display if the number is a perfect square.
+
 def find_perfect_squares(numbers):
     # Checking if the input is a list
     if not isinstance(numbers, list):
